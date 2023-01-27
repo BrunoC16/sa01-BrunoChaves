@@ -14,10 +14,10 @@ namespace aplicacao03
             int n1, n2 = 0;
             int resultado = 0;
 
-            Console.Write("Digite a quantidades de aviões tem : ");
+            Console.WriteLine(" Digite a quantidades de aviões tem : ");
             n1 = int.Parse(Console.ReadLine());
 
-            Console.Write("Digite a quantidades de assentos que existem em cada avião: ");
+            Console.WriteLine("Digite a quantidades de assentos que existem em cada avião: ");
             n2 = int.Parse(Console.ReadLine());
 
             resultado = n1 * n2;
