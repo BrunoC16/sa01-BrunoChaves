@@ -1,0 +1,8 @@
+C:\Users\Bruno\source\repos\TerceiraSemana\aplicacao06\obj\Debug\aplicacao06.csproj.AssemblyReference.cache
+C:\Users\Bruno\source\repos\TerceiraSemana\aplicacao06\obj\Debug\aplicacao06.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bruno\source\repos\TerceiraSemana\aplicacao06\obj\Debug\aplicacao06.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\source\repos\TerceiraSemana\aplicacao06\bin\Debug\aplicacao06.exe.config
+C:\Users\Bruno\source\repos\TerceiraSemana\aplicacao06\bin\Debug\aplicacao06.exe
+C:\Users\Bruno\source\repos\TerceiraSemana\aplicacao06\bin\Debug\aplicacao06.pdb
+C:\Users\Bruno\source\repos\TerceiraSemana\aplicacao06\obj\Debug\aplicacao06.exe
+C:\Users\Bruno\source\repos\TerceiraSemana\aplicacao06\obj\Debug\aplicacao06.pdb
